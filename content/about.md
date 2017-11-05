@@ -1,12 +1,20 @@
-About this site
+Om denna sida
 ==============================================
 
-Provar ändring
+Det fullständiga namnet på denna kurs är Teknisk webbdesign och användbarhet,
+men i de flesta fall används benämningen Design.
 
-The primary focus of this site is to:
+Kursen syftar till att ge studenten kunskap inom:
 
-* To be used in teaching the [dbwebb course design](http://dbwebb.se/design).
+* Ramverk för webbdesign
+* CSS och LESS
+* Skriva för webben
+* Grid-baserad webbdesign
+* Utveckla användarvänliga webbplatser
+* Färgsättning, bildhantering och typografi
 
-The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
 
-This site is produced by [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se).
+Läs mer om kursen: [Design](http://dbwebb.se/design).
+
+Källkoden för denna webbplats finns på GitHub,
+[me-sida](https://github.com/Morsan/anax-flat/tree/1.0.0).
