@@ -19,4 +19,4 @@ mitt arbetsområde då jag bara kan arbeta halvtid pga sjukdomen ms och dessutom
 företrädesvis hemifrån. Förhoppningen nu är att bristen på webbprogrammerare
 ska göra att även jag kanske kan få ett litet jobb:)
 
-![Jag själv](../htdocs/img/img_0339.jpg)
+![Jag själv](img/img_0339.jpg)
