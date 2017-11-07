@@ -1,5 +1,5 @@
 <div style="border: 2px solid blue; overflow: auto" markdown=1>
-<img src="../htdocs/img/bild.jpg" style="width:10%; float:left"/>
+<img src="img/bild.jpg" style="width:10%; float:left"/>
 
 Ylva Hansson studerar Webbprogrammering och Databaser vid
 Blekinge Tekniska Högskola. Tidigare har Ylva arbetat på
